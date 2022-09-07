@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.927" height="24.137" viewBox="0 0 21.927 24.137">
+  <g id="Icon-alarm" transform="translate(-14 -4)">
+    <g id="Icon" transform="translate(15 5)">
+      <path id="Path" d="M16.606,7.256C16.606,3.249,13.632,0,9.963,0S3.321,3.249,3.321,7.256C3.321,15.721,0,18.14,0,18.14H19.927s-3.321-2.419-3.321-10.884" transform="translate(0 0)" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-2" data-name="Path" d="M2.768,0A1.6,1.6,0,0,1,1.384.8,1.6,1.6,0,0,1,0,0" transform="translate(8.579 21.339)" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <circle id="Oval" cx="3.5" cy="3.5" r="3.5" transform="translate(23 7)" fill="none"/>
+  </g>
+</svg>

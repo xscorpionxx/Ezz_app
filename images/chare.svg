@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45be00"/>
+      <stop offset="1" stop-color="#2aabe3"/>
+    </linearGradient>
+  </defs>
+  <g id="chare" transform="translate(0.5 0.5)">
+    <rect id="bg" width="40" height="40" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Icon_ionic-ios-share-alt" data-name="Icon ionic-ios-share-alt" d="M23.48,13.45,16.446,6.869a.36.36,0,0,0-.279-.12c-.219.01-.5.165-.5.4v3.3a.213.213,0,0,1-.179.2C8.494,11.725,5.547,16.96,4.505,22.394c-.04.214.249.414.384.244a12.714,12.714,0,0,1,10.569-5.354.247.247,0,0,1,.209.239v3.241a.428.428,0,0,0,.723.264l7.084-6.7a.55.55,0,0,0,.174-.419A.668.668,0,0,0,23.48,13.45Z" transform="translate(5.351 2.251)" fill="none" stroke="#fefefe" stroke-width="1"/>
+  </g>
+</svg>

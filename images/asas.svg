@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="535.257" height="818.578" viewBox="0 0 535.257 818.578">
+  <defs>
+    <linearGradient id="linear-gradient" x2="0.911" y2="0.922" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.012"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#deffdc"/>
+      <stop offset="0.44" stop-color="#fff"/>
+      <stop offset="0.692" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff8f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2aabe3" stop-opacity="0.141"/>
+      <stop offset="1" stop-color="#ffdfdf" stop-opacity="0.929"/>
+    </linearGradient>
+  </defs>
+  <g id="bk" transform="translate(80.257 6.578)">
+    <g id="center_bg" data-name="center bg" transform="translate(-48 -2)">
+      <path id="Ellipse" d="M3.524,229.923C1.432,102.94,92.844,1.389,207.7,3.1s209.658,106.042,211.75,233.026-89.32,228.535-204.175,226.821S5.615,356.907,3.524,229.923Z" transform="translate(99.766 -8.544) rotate(17)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Inner_Bg" data-name="Inner Bg" width="375" height="812" fill="url(#linear-gradient-2)"/>
+    <path id="Top_Right_Bg" data-name="Top Right Bg" d="M0,113.5A172.806,172.806,0,0,1,42.271,0H263a45,45,0,0,1,45,45V223.108A173.5,173.5,0,0,1,0,113.5Z" transform="translate(147)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

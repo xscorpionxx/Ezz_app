@@ -1,0 +1,15 @@
+<svg id="edit_profile" data-name="edit profile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45be00"/>
+      <stop offset="1" stop-color="#2aabe3"/>
+    </linearGradient>
+  </defs>
+  <g id="order_icon" data-name="order icon">
+    <rect id="bg" width="40" height="40" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="icon" transform="translate(12.427 11)">
+    <path id="Vector" d="M9,0H0" transform="translate(5.219 18.043)" fill="none" stroke="#fefefe" stroke-width="1"/>
+    <path id="Vector-2" data-name="Vector" d="M11.389,13a1.611,1.611,0,0,0,1.139-2.75L3.037.759,0,0,.759,3.037l9.491,9.491A1.611,1.611,0,0,0,11.389,13Z" transform="matrix(-0.975, -0.223, 0.223, -0.975, 12.672, 15.573)" fill="none" stroke="#fefefe" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="22.073" viewBox="0 0 24 22.073">
+  <g id="eye" transform="translate(0 -1.294)">
+    <path id="Path_185" data-name="Path 185" d="M29.29,14.644a.829.829,0,1,1-.83-.827A.831.831,0,0,1,29.29,14.644Z" transform="translate(-5.29 -1.657)" fill="#8b8b8b"/>
+    <path id="Path_186" data-name="Path 186" d="M1.658,14.644a.829.829,0,1,1-.827-.827A.829.829,0,0,1,1.658,14.644Z" transform="translate(0 -1.657)" fill="#8b8b8b"/>
+    <path id="Path_187" data-name="Path 187" d="M.988.988,21.454,21.673" transform="translate(-0.158 1)" fill="none" stroke="#8b8b8b" stroke-width="1.974"/>
+    <path id="Path_188" data-name="Path 188" d="M16.869,14.328A2.482,2.482,0,0,0,12.176,13.2l3.338,3.338A2.487,2.487,0,0,0,16.869,14.328Z" transform="translate(-1.389 -2.348)" fill="#8b8b8b"/>
+    <path id="Path_189" data-name="Path 189" d="M8.868,9.7A5.8,5.8,0,1,1,17,17.83l2.265,2.265a16.641,16.641,0,0,0,6.512-6.417l-.026-.945s-4.815-7.8-12.279-7.8a12.3,12.3,0,0,0-7,2.367Z" transform="translate(-1.91 -0.63)" fill="#8b8b8b"/>
+    <path id="Path_190" data-name="Path 190" d="M14.481,19.306a5.791,5.791,0,0,1-7.454-7.454l-2.9-2.895A21.1,21.1,0,0,0,.186,13.375L.16,14.32s4.011,7.841,12.3,7.841a12.484,12.484,0,0,0,4.165-.709Z" transform="translate(-0.026 -0.488)" fill="#8b8b8b"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="chat" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45be00"/>
+      <stop offset="1" stop-color="#2aabe3"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" width="40" height="40" fill="url(#linear-gradient)"/>
+  <path id="Icon_simple-hipchat" data-name="Icon simple-hipchat" d="M2.757,12.993s-.067-.047-.173-.128A6.323,6.323,0,0,1,0,7.874c0-3.7,3.474-6.694,7.757-6.694s7.761,3,7.761,6.694-3.473,6.7-7.758,6.7a8.9,8.9,0,0,1-1.632-.147l-.169-.029a8.076,8.076,0,0,1-4.066,1.287.417.417,0,0,1-.357-.714,7.854,7.854,0,0,0,1.221-1.973ZM3.7,10.067a5.015,5.015,0,0,0,4.044,1.868h.03a5.022,5.022,0,0,0,4.044-1.868A.735.735,0,0,0,12,9.7a.317.317,0,0,0-.289-.34.035.035,0,0,0-.014,0,.407.407,0,0,0-.212.072,5.908,5.908,0,0,1-3.721,1.329,6.8,6.8,0,0,1-.982-.074A5.421,5.421,0,0,1,4.037,9.423a.3.3,0,0,0-.2-.079.312.312,0,0,0-.312.307.854.854,0,0,0,.173.416H3.7Z" transform="translate(13.481 11.819)" fill="none" stroke="#fefefe" stroke-width="1"/>
+</svg>
